@@ -5,10 +5,9 @@ in my very first doctoral classs!
 
 ---
 
-A TODO List forthis session as layed out by Dr. Harmon
-*First let's write the README
-*Then we will commit this to our Github repo
-***
+A **TODO** List forthis session as layed out by Dr. Harmon
+* First let's write the README
+* Then we will commit this to our Github repo
 
 ---
 

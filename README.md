@@ -13,3 +13,5 @@ A **TODO** List forthis session as layed out by Dr. Harmon
 
 I am going to write a poem about the endurance of my ancestors
 and how that endurance flows through me
+
+My manifesto! 

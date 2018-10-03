@@ -8,6 +8,8 @@ I speak the names and imagine the lives of all those who where enslaved and forg
 May they live in my thoughts and be reinvigorated through my voice.
                                       ☥
 
+## Poetry Results
+
 ---
 
 I am the only One, who proceedeth from an only One who dwelleth in my body.

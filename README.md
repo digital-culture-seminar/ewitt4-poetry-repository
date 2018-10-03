@@ -6,7 +6,13 @@ Artist Statement
 
 I speak the names and imagine the lives of all those who where enslaved and forgotten.
 May they live in my thoughts and be reinvigorated through my voice.
+
+## Process 
+
+
                                       ☥
+
+## Poetry Results
 
 ---
 

@@ -11,7 +11,7 @@ A **TODO** List forthis session as layed out by Dr. Harmon
 
 ---
 
-I am going to write a poem about the endurance of my ancestors
-and how that endurance flows through me
+I speak the names and imagine the lives of all those who where enslaved and forgotten.
+May they live in my thoughts and be reinvigorated through my voice.
 
 My manifesto! 

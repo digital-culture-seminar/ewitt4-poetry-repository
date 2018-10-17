@@ -12,7 +12,7 @@ May they live in my thoughts and be reinvigorated through my voice.
 
                                       ☥
 
-## Poetry Results
+## Poetry Results (1)
 
 ---
 
@@ -20,18 +20,43 @@ I am the only One, who proceedeth from an only One who dwelleth in my body.
 
 ---
 
-in the morningboat,
-you travel the sky in peace.
+In the morningboat,
+You travel the sky in peace.
 All your enemies
 
-as RA everyday,
-alive and stable as my 
-lord RA, true of voice
+As RA everyday,
+Alive and stable as my 
+Lord RA, true of voice
 
-stars worship you, your
-beauty in my eyes, your light
-unfurling on my brow.
+Stars worship you, your
+Beauty in my eyes, your light
+Unfurling on my brow.
 
-unfurling on my
-breast. You go, you rest in the 
-horizon of the west.
+Unfurling on my
+Breast. You go, you rest in the 
+Horizon of the west.
+
+## Poetry Results (2)
+
+Big George 45 Sugar-Maker
+Lovelace 30 Ploughman
+Louis 30 Cook
+Lawson 35 Cooper
+James 35 mason
+Phillip 50 Field Hand
+Ben 60 Blacksmith
+Edward 9 Orphan
+Eliza 50 Ironer
+Etienne 53 Foreman
+Mingo 18 Fieldhand
+Lucille 26 Fieldhand
+Marianne 30 Cook
+Celeste 16 Fieldhand
+James 48 glazier
+Louisa 35 Hospital Worker
+Caroline 38 Babymaker
+Johnette 35 Cook
+Elmira 35 Sickly
+Peggy 30 Good Hand
+
+---

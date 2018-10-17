@@ -34,8 +34,7 @@ enslaved = random.choice(list_of_list)
 
 #enslaved = list_of_list[random.randint(0,20)]
 
-name = enslaved[0
-                ]
+name = enslaved[0]
 age = enslaved[1]
 occupation = enslaved[2]
 

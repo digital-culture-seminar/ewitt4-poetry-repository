@@ -7,7 +7,7 @@ Artist Statement ☥
 I speak the names and imagine the lives of all those who where enslaved and forgotten.
 May they live in my thoughts and be reinvigorated through my voice.
 
-## Process 
+## Process ☥
 
 There are 2 seperate processes for the poems that are being generated.
 

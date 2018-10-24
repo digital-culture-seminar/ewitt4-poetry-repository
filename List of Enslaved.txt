@@ -18,6 +18,7 @@ Caroline 38 Babymaker
 Johnette 35 Cook
 Elmira 35 Sickly
 Peggy 30 Good Hand
+
 Peggy 45 Sugar-Maker
 Lovelace 30 Ploughman
 Louis 30 Cook

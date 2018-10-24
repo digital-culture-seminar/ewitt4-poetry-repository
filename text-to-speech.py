@@ -26,20 +26,20 @@ from gtts import gTTS
 import markovify
 
 # get raw text as string
-with open("List of Enslaved.txt") as f:
+with open("Precepts of the prefect the lord Ptah-hotep.txt") as f:
     text = f.read()
 
 # build the markov model
 text_model = markovify.NewlineText(text)
 
 # print a randomly-generated sentence of no more than 140 characters
-markov_poem = text_model.make_short_sentence(140) 
+markov_poem = text_model.make_sentence() + text_model.make_sentence()
 
 # text to speech
 tts = gTTS(text=markov_poem, lang='en')
 
 # write audio file
-tts.save("markovified-poem10.mp3")
+tts.save("markovified-poem14.mp3")
 
 # play audio file
-playsound("markovified-poem10.mp3")
+playsound("markovified-poem14.mp3")

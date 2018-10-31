@@ -19,6 +19,43 @@ Johnette 35 Cook
 Elmira 35 Sickly
 Peggy 30 Good Hand
 
+Thomas 16 Wagoneer
+Rasmus 35 Fieldhand
+Alfred 21 Househand
+Jones 17 Smith
+Miles 22 Wagoneer
+Jesse 34 Fieldhand
+Adele 42 Fieldhand
+Poly 24 Seamstress
+Jackson 20 Runner
+Ma Bell 57 Cook
+Emily 12 Laundry/Linens
+Adam 19 Miller
+Mosco 20 Miler
+Hanna 11 House maid
+Estelle 35 Weaver
+Jina 17 Seamstress
+Moses 59 House hand
+Jimbo 26 Wagoneer
+David 5 Child
+Adalene 3 Child
+
+Perry 40 Driver
+Old Daniele 70 Old and Decrepid
+John Miller 28 Runaway Full hand
+Claiborn West 28 Good Negro
+Orange 28 Good hand
+George 25 Cooper
+Jefferson 28 Superior Hand
+Simond 45 Carpenter (Greatest Rascal on Plantation)
+Charles Mena 45 African
+
+
+
+
+
+
+
 Peggy 45 Sugar-Maker
 Lovelace 30 Ploughman
 Louis 30 Cook

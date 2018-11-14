@@ -109,3 +109,6 @@ Jefferson 28 Superior Hand
 Simond 45 Carpenter (Greatest Rascal on Plantation)
 Charles Mena 45 African
 Ashe
+
+
+![Waveform_White](Waveform_White_.png)

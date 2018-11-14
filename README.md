@@ -54,6 +54,7 @@ During the time of your neighbors better is a lost to him whose temper is turbul
 And he is made from what the great Ptah has given you,
 Do not endure when it slackens.
 
+![Waveform_White](Waveform_White_.png)
 
 ## Poetry Results (3-Final)
 
@@ -110,5 +111,5 @@ Simond 45 Carpenter (Greatest Rascal on Plantation)
 Charles Mena 45 African
 Ashe
 
+![Enslaved_Waveform_2](Enslaved_Waveform_2.png)
 
-![Waveform_White](Waveform_White_.png)

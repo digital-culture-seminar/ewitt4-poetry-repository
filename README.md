@@ -112,4 +112,4 @@ Charles Mena 45 African
 Ashe
 
 ![Enslaved_Waveform_2](Enslaved_Waveform_2.png)
-
+![Enslaved_Waveform_2](Waveform_Red_Long.png)

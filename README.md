@@ -16,7 +16,7 @@ For the text of the ancient Egyptians, I select a piece of a ancient Egyptian li
 
 For the text of the enslaved, it may not look like a poem but what a poem is supposed to look like is subjective.  After researching 17th and 18th inventories that contain the names, age, and occupations of enslaved Africans and African Americans, I picked a few whose names that are still widely used today.  After selecting these names, I input them into Spyder and through in class lessons, generate new names, occupations, and ages.  To me, this process is giving acknowledgement to those enslaved people who's names and identities were lost to history.  This personally helps me to feel connected to the ancestors who's identities were lost to me in history but who's presence I always feel.
 
-## Poetry Results (☥)
+## Poetry Results ☥
 
 ---
 
@@ -40,7 +40,7 @@ Unfurling on my
 Breast. You go, you rest in the 
 Horizon of the west.
 
-## Poetry Results (2)
+## Poetry Results (2) ☥
 
 Inspire not men with fear, else Ptah will take away the unteachable.
 Tomorrow knowledge will support him while the ignorant in the words of every man,
@@ -56,7 +56,7 @@ Do not endure when it slackens.
 
 ![Waveform_White](Waveform_White_.png)
 
-## Poetry Results (3-Final)
+## Poetry Results (3-Final) ☥
 
 Big George 45 Sugar-Maker
 Lovelace 30 Ploughman
